@@ -1,4 +1,5 @@
 board = []
+i=0
 loop do
   board[i] = " "
   i+1
